@@ -98,7 +98,7 @@ plt.show()
 ```
 ### Results
 
-![Visualization of Top Skills demanded for common data roles](3_project\images\skill_demand_all_data_roles.png)
+![Visualization of Top Skills demanded for common data roles](images/skill_demand_all_data_roles.png)
 
 ### Insights
 
@@ -150,7 +150,7 @@ sns.despine()
 
 ### Results
 
-![A line graph showing trends in skill demand over 2023](3_project\images\trending_skills.png)
+![A line graph showing trends in skill demand over 2023](images/trending_skills.png)
 
 ### Insights
 
@@ -218,7 +218,7 @@ More detail on the code can be found here:  [4_salary_analysis.ipynb](3_project\
 
 ### Results
 
-![Distribution of Salaries for top data roles in the US](3_project\images\salary_distribution.png)
+![Distribution of Salaries for top data roles in the US](images/salary_distribution.png)
 
 
 
@@ -306,11 +306,11 @@ I did alter the skill percent threshold for legibility of the result graphs, aim
 
 ### Results
 
-![Graph of Optimal Skills to learn for Data Analysts](3_project\images\da_skills.png)
+![Graph of Optimal Skills to learn for Data Analysts](images/da_skills.png)
 
-![Graph of Optimal Skills to learn for Data Scientists](3_project\images\ds_skills.png)
+![Graph of Optimal Skills to learn for Data Scientists](images/ds_skills.png)
 
-![Graph of Optimal Skills to learn for Data Engineers](3_project\images\de_skills.png)
+![Graph of Optimal Skills to learn for Data Engineers](images/de_skills.png)
 
 ### Insights
 
@@ -390,11 +390,11 @@ print(f"One-Sided P-Value:  {(p/2):.10f}")
 
 ### Results
 
-![Overlaid Salary Distributions for Data Analyst Jobs that Require Python vs those that do not](3_project\images\dist1.png)
+![Overlaid Salary Distributions for Data Analyst Jobs that Require Python vs those that do not](images/dist1.png)
 
-![Overlaid Salary Distributions for Data Scientist Jobs that Require Python vs those that do not](3_project\images\dist2.png)
+![Overlaid Salary Distributions for Data Scientist Jobs that Require Python vs those that do not](images/dist2.png)
 
-![Overlaid Salary Distributions for Data Engineer Jobs that Require Python vs those that do not](3_project\images\dist3.png)
+![Overlaid Salary Distributions for Data Engineer Jobs that Require Python vs those that do not](images/dist3.png)
 
 ### Insights
 
