@@ -390,11 +390,11 @@ print(f"One-Sided P-Value:  {(p/2):.10f}")
 
 ### Results
 
-![Overlaid Salary Distributions for Data Analyst Jobs that Require Python vs those that do not](3_project\images\da_dist.png)
+![Overlaid Salary Distributions for Data Analyst Jobs that Require Python vs those that do not](3_project\images\dist1.png)
 
-![Overlaid Salary Distributions for Data Scientist Jobs that Require Python vs those that do not](3_project\images\ds_dist.png)
+![Overlaid Salary Distributions for Data Scientist Jobs that Require Python vs those that do not](3_project\images\dist2.png)
 
-![Overlaid Salary Distributions for Data Engineer Jobs that Require Python vs those that do not](3_project\images\de_dist.png)
+![Overlaid Salary Distributions for Data Engineer Jobs that Require Python vs those that do not](3_project\images\dist3.png)
 
 ### Insights
 
