@@ -1,12 +1,12 @@
 # Overview
 
-This project and associated repository served two purposes.  The first and most basic was to develop strong knowledge of Python tools for data analytics.  The only coding experience I had in data analytics previously was in R.  In addition, this project served as my introduction to Github.
+This project and associated repository served two purposes.  The first and most basic was to develop strong knowledge of Python tools for data analytics.  While I had strong existing knowledge of data analytics, most of my previous experience was in R.
 
-The second purpose of this project was to analyze the market for data jobs, specifically those in the United States.  Analysis includes trends in skill demand, salary, job titles, and more.  The data used for this analysis is sourced from Luke Barrouse's Python Course
+The second purpose of this project was to analyze the market for data jobs, specifically those in the United States.  Analysis includes trends in skill demand, salary, job titles, and more.  The data used for this analysis is sourced from Luke Barrouse's Python Course.
 
 ## The Questions
 
-I will be answering the following questionsL
+I will be answering the following questions:
 
 1.  What are the skills most in-demand for the top three most popular data roles in the US?
 
@@ -19,12 +19,11 @@ I will be answering the following questionsL
 
 ## Tools I used
 
-- Python:  
-    - The first "real" programming language I've learned, for those who don't like to count R. Libraries used included Pandas for data analysis, matplotlib and Seaborn for visualizations, and scipy/numpy for some more robust analysis.
+- Python:  Scripting language used for data import, cleanup, wrangling, and visualization
 
 - Jupyter Notebooks:  Tool used for running python scripts in small pieces.
 
-- Visual Studio Code:  The first proper IDE I've used, for executing python scripts.
+- Visual Studio Code:  IDE for executing python scripts inside of Jupyter notebooks
 
 - Git and Github:  For version control and easy publishing of work.
 
